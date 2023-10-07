@@ -9,6 +9,11 @@
        to predit the crime Here offer will held in a particular area it can which type of crime predit to avoid crime.
 
 
+                                                     Flow Diagram
+
+  ![WhatsApp Image 2023-09-30 at 21 50 05](https://github.com/parvathinathan2002/Women-Crime-Case-Similarities-using-machine-learning-algorithm-/assets/122083388/e3bbe89f-610f-42f7-85ac-5607f8d45355)
+
+
                                                SYSTEM REQUIREMENTS
 
         SOFTWARE REQUIREMENTS:-
